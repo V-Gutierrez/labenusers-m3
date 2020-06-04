@@ -5,7 +5,7 @@ Praticando TypeScript e utilização de bibliotecas e APIs no React
 Ferramentas:
 
 - TypeScript
-- React-Routes
+- React-Router-DOM
 - React-Icons
 - React-Toastify
 
